@@ -48,8 +48,8 @@ void* addr_recvfrom_ac1 = (void*)0x7935AC; // 0x7935AC for current build 0x7925A
 void* addr_sendto_ac1 = (void*)0x7935A4; // 0x7935A4 for current build 0x7925A4 for 2013 build
 void* addr_loadlibcheck_ac1 = (void*)0x5577C3; // 0x5577C3 for current build 0x556B83 for 2013 build
 
-void* addr_recvfrom_ac2 = (void*)0x9D267C;
-void* addr_sendto_ac2 = (void*)0x9D2688;
+void* addr_recvfrom_ac2 = (void*)0x9CF674;
+void* addr_sendto_ac2 = (void*)0x9CF680;
 void* addr_loadlibcheck_ac2 = (void*)0x4C9E83;
 
 void* addr_recvfrom = NULL;
